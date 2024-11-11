@@ -11,7 +11,6 @@ This Power BI dashboard utilizes the [SERP API](https://serpapi.com/) to analyze
 - [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
