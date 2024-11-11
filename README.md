@@ -2,7 +2,7 @@
 
 This Power BI dashboard utilizes the [SERP API](https://serpapi.com/) to analyze Google Trends data for various job-related search terms in India, focusing on keywords like "Data Analyst," "The Developer," "Jobs," and "Power BI." It provides insights into interest over time, geographic distribution, and related topics to help understand job demand trends.
 
-![Power BI Dashboard](Assets/Dashboard_.JPGg)
+![Power BI Dashboard](Assets/Dashboard_Googgle_Trend.png)
 
 ## Table of Contents
 
